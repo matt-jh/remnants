@@ -24,6 +24,6 @@ Maxwell’s house still stands near the dining hall and has undergone some resto
 
 Behind the current structures lies the Abreu Family Cemetery and several piles of dirt from the construction of the modern buildings. The dirt pile has had some sifting for artifacts and has produced minor finds.
 
-[carved_aspen_image]: ./images/trappers/trappers_1.png "Marked Aspen"
+[carved_aspen_image]: ./Images/trappers/trappers_1.png "Marked Aspen"
 
-[rock_pile_image]: ./images/trappers/trappers_2.png "Possible Grave"
+[rock_pile_image]: ./Images/trappers/trappers_2.png "Possible Grave"
