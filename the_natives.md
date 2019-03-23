@@ -11,4 +11,4 @@ Box Canyon Cave on Approach
 
 ![Box Canyon Cave][box_canyon_image]
 
-[box_canyon_image]: ./images/natives/natives_1.png "Box Canyon Cave"
+[box_canyon_image]: ./Images/natives/natives_1.png "Box Canyon Cave"
