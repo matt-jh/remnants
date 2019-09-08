@@ -1,5 +1,4 @@
 ## The Ranchers
-# TODO: ADD IMAGES
 *Gold was not the only industry that brought people to the area in the second half of the 1800’s. The cattle industry was growing and changing the west. The days of the mountain man were numbered and the era of the cowboy was beginning.*
 ***
 #### THE CHASE FAMILY
@@ -12,3 +11,7 @@ Stone Wall pass gets its name from the stone wall running over it. The wall was 
 While his Villa Philmonte was the grandest lodge he built on the property, Waite also had several built in the backcountry. Crater Lake (a place to stop overnight when headed to Fish Camp), Hunting Lodge, and Fish Camp (Rayado lodge) are all home to Phillips’ backcountry homes. He also built a reservoir near the current Philmont reservoir. It is much smaller and looks natural apart from a concrete dam that can be easily missed. The dam has Waite’s initials and the year – 1927 – carved into it. The current site of bas camp was the site of Phillips’ cattle headquarters and has some older foundations visible, however it isn’t clear if these are from the Phillips era or from the Scouts.
 
 The Dam
+
+![Dam][dam_image]
+
+[dam_image]: ./Images/ranchers/ranchers_1.png "Waite's Dam"

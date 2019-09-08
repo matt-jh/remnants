@@ -1,7 +1,6 @@
 ## The Boy Scouts
-# TODO: ADD IMAGES
 *Philmont’s History did not end when Waite Phillips donated the land to the BSA, nor has the ranch remained the same. The scouts have created and retired camps and have left trails zigzagging across the land than no longer appear on any map. They, like all those who came before left behind traces of the past, even in camps that are still used.*
-
+***
 #### INDIAN WRITINGS
 IW claims to be the oldest staff camp, excluding Ponil basecamp. This long history has left it with some traces of the early scouts. This can bee seen in the IW museum, which was built by the early scouts and filled with artifacts that they found in excavations in the area.
 
@@ -15,7 +14,7 @@ While it was not the BSA that crashed the planes there are two crashes that occu
 
 A Crew Photo at the Site in the 90’s
 
- 
+![A26][A26_image]
 ***
 #### OLD THINGS AT CURRENT CAMPS
 Several sweat lodges can be found at staffed camps. While only Apache Springs maintains and uses theirs a few can still be seen. The two best examples I’ve found are at Baldy Town where sweat lodge is near the reservoir, and Cypher’s where one is just below the Thunder mine’s north tailing pile. 
@@ -42,3 +41,5 @@ Further information on former camps can be found in the Philmanac.
 ***
 ### Other Things? 
 This isn't a complete list! Add to it!
+
+[A26_image]: ./Images/boy_scouts/boy_scouts_1.png "A-26 Invader"

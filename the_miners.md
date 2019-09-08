@@ -10,21 +10,15 @@ This mirrored the fortunes of mining in the area. The peak in the late 1860’s 
 ### BALDYTOWN
 Baldytown was situated at the location of the current camp, but had districts that extended towards the Ute Meadows trail. At the camp the foundation of the hotel can be seen between the main cabin and the staff dorms. There are several early automobiles in the camp and near the corral. If one follows the small trail near the water spigot they will reach the remains of the Aztec Mill. The mill was built by Maxwell to process ore from his mines – chiefly Aztec-Ponil and Montezuma. However the mill burned down in the early 20th century and was not rebuilt due to the low productivity of the mines at the time. The foundation is still very clear at the site of the mill and a little further down hill an area filled with waste from the mill can be found with some scrap metal, tubing an the remains of some structures. If one continues along the road you will come to a flattened area that appears to have been a grave yard due to the carvings and plates in trees nearby.
 
- 
-
-
-
-
-
 
 Baldy Town Ruins in the 1970’s
 
- 
+![OldBaldyTown_image]
 
 
 The Mill in its Day
 
- 
+![OldMill_image]
 
 Returning to the camp and heading towards the shower house several metal posts can be seen to the northeast. These were likely supports for the ore carts coming from the Aztec ridge. Additional foundations can be seen in this area.
 
@@ -40,8 +34,12 @@ North of Baldytown the Aztec mines can be clearly seen as the large dark grey ta
 To the west of the trail to Copper a metal roof can be seen about 300ft off the trail. It is not clear what this is, but it is visible in Google Maps. Several small mines can be seen in this area as well as several trash piles and old roads. These crisscross the area in-between French and Baldy so it is not recommended to take them with out a GPS.
 
 Weird roofs in the area:
-(482287.58E, 4053864.15N / 36.630158, -105.198114) 
+
+(482287.58E, 4053864.15N /
+ 36.630158, -105.198114)
+
 (482339.16E, 4054034.98N / 36.631699, -105.197541)
+
 (482488.23E, 4054185.20N / 36.633056, -105.195877)
 
 #### FRENCH HENRY
@@ -51,71 +49,38 @@ There were not as many portals on the Ponil side however the only remaining un-c
 
 A map of the Aztec-Ponil at French Henry.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![AztecPonilMap_image]
 
 If one were to hike to from French towards Pueblano you would pass the remains of a cabin as well as evidence of some hydraulic mining. There are also traces of roads and the remains of cabins, however these are likely from the loggers.
 
 Heading from French to Copper Park on would pass several mines on both sides of the trail. If one knows what to look for additional cabin remains can be found near the A-P #2 portal and a staff trail leads to #1’s portal and tailings. At the trail intersection to the mine the remains of a cabin are readily apparent. On the way to the portal the collapsed entrance to another mine can be seen. Above the A-P portal there are some trails and concrete rubble.
 
 
-
-
 Small collapsed portal near the Aztec-Ponil 2 Portal
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![AztecPonilOldPortal_image]
 
 The collapsed structure near at the intersection of the French-Copper and Aztec-Ponil trails
 
- 
+![RuinNearAztecPonil_image]
 
 Past intersection there are several more tailings piles that can be seen from the trail. Some of theses still have recognizable portals ant others are quite large. In addition to the mines there are several ruins of structures and the remains of the roads crisscrossing between French and Baldytown can be seen.
 
 Looking down at a crew on the French-Copper trail from a tailing pile from an unidentified mine.
 
- 
+![TailingNearAztecPonil_image]
 
 A cabin on the French-Copper Trail
 
- 
+![RuinAztecPonil_image] 
 
+Mill Ruins
+
+![FrenchHenry1_image]
+
+The Museum, Possibly a Former Dorm
+
+![FrenchHenry2_image]
 
 ### COPPER PARK 
 #### DEEP TUNNEL MINE
@@ -123,52 +88,27 @@ A cabin on the French-Copper Trail
 
 Copper is home to several traces of mining. The largest of which is the remains of the Deep Tunnel Mine. The mine once passed through the entire mountain and was dug in an attempt to reach gold deposits that were thought to be at the center of the mountain. The tunnel was dug from both ends and met in the middle with less than a foot of deviation. No gold was found. The mine can be reached by heading along the south Ponil towards the trail up Baldy. If one keeps an eye out to the left a large tailing pile and some modern trash can be seen from the trail. Climbing up the tailing pile will get you to the collapsed portal and cabin, but it is very steep and there are easier ways to get up there. If you continue down the trail until you see a non-Philmont wooden sign on a tree you can take the old road up to the mine. At the sign turn left and follow the remains of the ruts. Saplings have come up in the middle but the shape of the road can still be seen. The cabin is faced with sheet metal and is in good shape compared to most of the ones you’ll see in the area. The portal has collapsed, but a water tube can be seen running out of the mine. This seems to be the source of water for the spigots at Copper Park camp. The tailing pile and the cabin can be easily seen as one descends from Baldy along Copper Ridge.
 
-
-
-
-
-
-
-
 The Road to Deep Tunnel
 
- 
-
-
+![DeepTunnelRoad_image]
 
 Deep Tunnel Cabin
-
  
-
+![DeepTunnelCabin_image]
 
 #### COPPER PARK CAMP
 At the camp itself there are the remains of a tank of some kind near the Red Roof nearest to the trail to French. There are also traces of structures near deep tunnel’s road and along the south Ponil. There are several lengths of pipe in the stream; however there does not seem to have been any notable hydraulic mining in the camp. There are the usual piles of old tin cans from mining areas as well. The trail from Copper passes several mines that may include the Smuggler, Rebel Chief and Yellow Dog Mines.
 
 Tank near the Red Roof
 
- 
+![TankAtCopper_image] 
+
 #### GOAT SCRAMBLE
 The goat scramble is an old route off Baldy. It can be seen from Copper Ridge and in Google Maps. It appears to follow the elongated side of Baldy for a ways before diving into the tree line (~1/2 mi from the copper’s meadow) towards the scree field southwest of Copper Park. If one heads away from the populated area of Baldy heading east you will see the start of the trail on the left and if you go far enough there is a Bar P Crazy S, the number 29, and a Zia made out of white rocks right before the mountain gets very steep very fast. From this point the ruined cabin near the firebreak is to the southeast (481629.40E, 4054377.01N).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Leave No Trace Champs
 
- 
-
+![I<3LNT_image]
 
 #### MYSTIC
 *(480715.01E, 4053819.28N / 36.629723, -105.215702)*
@@ -176,27 +116,25 @@ Leave No Trace Champs
 
 
 #### OLD FRENCH
-*(482903.73N, 4054971.50E/ 36.640152, -105.191247)* The current location of French Henry camp is the location of the mill built to process ore from the French Henry mine to the northwest. The path of the ore cart can be clearly seen in Google Maps. Older Philmont maps show a road going from Copper Park to Old French. If it was a road at some point it is not one any longer. To find it go to the trail to Copper Park and stand at the start of the trail to French. Walk slowly backwards towards French and keep your eye on the campsite sign. Just after you can no longer see it look around the north side of the trail for an old board and a pile of rocks in the shape of an F.
+*(482903.73N, 4054971.50E/ 36.640152, -105.191247)* The current location of French Henry camp is the location of the mill built to process ore from the French Henry mine to the northwest. The path of the ore cart can be clearly seen in Google Maps. Older Philmont maps show a road going from Copper Park to Old French. If it was a road at some point it is not one any longer. To find it go to the trail to Copper Park and stand at the start of the trail to French. Walk slowly backwards towards French and keep your eye on the campsite sign. Just after you can no longer see it look around the north side of the trail for an old board and a pile of rocks in the shape of an F (or an 'F' in sticks or boards- the stones may have been removed in 2018).
 
+This is what the board looks like. The F is the rock pile in the middle
 
-
-
-
-
-
-This is what the board looks like
-
- 
+![WayToFrench_image]
 
 Looking back at Copper Park. The sign is just behind the bend.
 
- 
+![CopperFromTheWayToFrench_image]
 
 From here head up the hill short ways until the remains of a path appear. There is a single switchback, but for the most part the trail heads straight towards the location of Old French. When you pass a sign that says it is closed you are most of the way there.
 
 The Ore Cart Path is the line in the trees connecting French Henry to French Henry Ridge in this picture.
 
- 
+![FrenchOreCart_image]
+
+The line in the trees
+
+![FrenchTramwayFromRoad_image]
 
 The remains of the buildings there are in rough shape, but are still clearly buildings. The stove on one is still present. Unfortunately a thunderstorm cut my time there short so I was not able to explore very thoroughly, but the remains of a portal and a shaft can be seen, however it seems likely that the shaft was for ventilation.
 
@@ -206,25 +144,20 @@ This may contain some truth, however from what I understand the mill was built l
 
 One of the more intact buildings
 
- 
+![OldFrench1_image]
 
 Shaft
 
- 
+![OldFrench2_image]
 
 
 Collapsed Portal
 
- 
+![OldFrench3_image] 
 
 French back in the day
 
- 
-
-
-
-
-
+![OldFrench4_image]
 
 ### CITO DISTRICT
 *The Cito Mining district did not enjoy the same prosperity that the Baldy area did.  One source I found in the geologist box at Cypher’s (which is a treasure trove if you are interested in mining history) stated that the average value of the ore from the Cito area was about 10$/ton compared the nearly 60$/ton ore the north produced. This meant that the area was never as crowded as the north and is home to fewer mines. The most prominent in the heyday of the gold rush were the Grey Eagle (Thunder) and Red Jacket (Contention) mines. The name changes occurred when they were bought from their original owners and reopened. Some smaller mines can be found to the west of the north portal to the Thunder. These are the Garst and the Gloria mines. These two are significantly smaller than the Contention or the Thunder and the Garst may be the smallest named mine on Philmont with a depth of about 50ft. The Gloria is larger at about 150ft.*
@@ -234,16 +167,62 @@ The portal used for mine tours is not the original. It was dug for the BSA by a 
 
 A map of the Contention from Cypher’s Geologist Box
 
-
+![ContentionMap_image]
 
 #### THUNDER
-The Thunder mine appears to have been the largest southern mine and passed straight through the ridge connecting the Middle Fork and North Fork valleys. The Thunder had one portal on the north side of the ridge that has been closed and can be reached from the trail that starts behind the staff cabin. If one were to continue on this trail it would pass the Garst and Gloria mines and head to the old trail connecting Cyphers and Lamberts. If one were to walk straight up the hill you would pass the southern portals on the descent. The mine’s southern most portal was minor and is near the trail at Lamberts. The middle portal has collapsed on its self and has become a pit. The old sweat lodge is at the base of the Thunder’s northern tailings pile. 
+The Thunder mine appears to have been the largest southern mine and passed straight through the ridge connecting the Middle Fork and North Fork valleys. The Thunder had one portal on the north side of the ridge that has been closed and can be reached from the trail that starts behind the staff cabin. If one were to continue on this trail it would pass the Garst and Gloria mines and head to the old trail connecting Cyphers and Lamberts. If one were to walk straight up the hill you would pass the southern portals on the descent. The mine’s southern most portal was minor and is near the trail at Lamberts. The middle portal has collapsed on its self and has become a pit. The old sweat lodge is at the base of the Thunder’s northern tailings pile.
+
 Profile of the Thunder
 
- 
-
+![ThunderMap_image]
 
 Near the Thunder mine to the southwest and along the ridge there are several cabins in poor condition. These were likely the living quarters of the miners in the area. Unfortunately, I do not have their exact location and have been unable to locate them, but have seen enough pictures to know that if you stumble upon them you will know it. Slightly subtler are several old structures on the southern side of the ridge. At least on appears to have been burned. Additionally the original trail connecting Lamberts and Cyphers can be followed from near the top of the ridge to the west of the Thunder several hundred feet to the current trail connecting Lamberts and Comanche Pass. The current trail is actually the road used to transport ore from the mine. The Middle Fork trail follows this road’s path as well. An interesting tidbit about the Lamberts-Cyphers road/trail is that near the tip of the hairpin turn there is another trail that descends straight towards the Middle Fork. This path has ax cut logs indicating that it likely predates the BSA. The trail can be seen easiest headed from Lamberts to Cyphers and looking to the right at the turn. There are some small cairns at the start of the trail.
 
 #### CYPHERS CAMP
 In the camp itself several structures appear to have come from either the early scouts or the late miners. One building is known to be an original and that is the stomp cabin. This dates from the era of Charlie Cyphers and was rebuilt in the summer of 2017 to keep it from sliding down the hill. The cabin was used by Cyphers and some interesting finds were made during the rebuild. Several shoes were found beneath the cabin and magazine pages were found crumpled between logs.
+
+[OldBaldyTown_image]: ./Images/miners/miners_1.png "Baldytown in the 70's"
+
+[OldMill_image]: ./Images/miners/miners_2.png "The mill in the early 20th century"
+
+[AztecPonilMap_image]: ./Images/miners/miners_3.png "The map of the mine at French Henry"
+
+[AztecPonilOldPortal_image]: ./Images/miners/miners_4.png "A collapsed portal near the Aztec-Ponil portal used for mine tours"
+
+[RuinNearAztecPonil_image]: ./Images/miners/miners_5.png "A collapsed Shack on the South Ponil"
+
+[TailingNearAztecPonil_image]: ./Images/miners/miners_6.png "Spying on a Crew"
+
+[RuinAztecPonil_image]: ./Images/miners/miners_7.png "Ruined Cabin along the Wall"
+
+[DeepTunnelRoad_image]: ./Images/miners/miners_8.png "The road from the trail to Deep Tunnel"
+
+[DeepTunnelCabin_image]: ./Images/miners/miners_9.png "The cabin at Deep Tunnel"
+
+[TankAtCopper_image]: ./Images/miners/miners_10.png "Possible tank for steam driven machines"
+
+[I<3LNT_image]: ./Images/miners/miners_11.png "No Trace at all"
+
+[WayToFrench_image]: ./Images/miners/miners_12.png "Start of the trail to French"
+
+[CopperFromTheWayToFrench_image]: ./Images/miners/miners_13.png "Start of the trail to French"
+
+[FrenchOreCart_image]: ./Images/miners/miners_14.png "The orecart tram way"
+
+[OldFrench1_image]: ./Images/miners/miners_15.png "An old cabin"
+
+[OldFrench2_image]: ./Images/miners/miners_16.png "A shaft north of the cabins"
+
+[OldFrench3_image]: ./Images/miners/miners_17.png "The collapsed portal of the mine"
+
+[OldFrench4_image]: ./Images/miners/miners_18.png "Historical photo of what appears to be French"
+
+[ContentionMap_image]: ./Images/miners/miners_19.png "Map of the Contention"
+
+[ThunderMap_image]: ./Images/miners/miners_20.png "Map of the Thunder"
+
+[FrenchHenry1_image]: ./Images/miners/miners_21.jpg "Mill ruins"
+
+[FrenchHenry2_image]: ./Images/miners/miners_22.jpg "Old dorm"
+
+[FrenchTramwayFromRoad_image]: ./Images/miners/miners_23.jpg "Line in the trees"
