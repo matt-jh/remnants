@@ -31,7 +31,7 @@ New Dean had the remains of some logging machinery, including what appeared to b
 
 Flume canyon was the site of a flume to remove the logs harvested from Wilson Mesa and bring them to roads. Supposedly the remains of the flume can still be seen at the head of the canyon.
 
-Cimarron Canyon was the site of a spur line and the home of a railroad waystation. This eventually developed into the Cimarroncita Ranch for Girls and was purchased by Philmont in 2015. There are numerous remains form the girls camp era, but the road seems to have taken the same route as the railway so little can be seen. Cimarron Canton was also one of the locations where the Johnny Depp Lone Ranger movie was filmed with part of the ending train fight being filmed in the canyon near the Palisades. 
+Cimarron Canyon was the site of a spur line and the home of a railroad waystation. This eventually developed into the Cimarroncita Ranch for Girls and was purchased by Philmont in 2015. There are numerous remains form the girls camp era, but the road seems to have taken the same route as the railway so little can be seen. Cimarron Canyon was also one of the locations where the Johnny Depp Lone Ranger movie was filmed with part of the ending train fight being filmed in the canyon near the Palisades. 
 
 Rich Cabins has the remains of some lighter track near the road that heads up the hill between them and Dan Beard. The rails are muck smaller than standard locomotive gauge, but may have been from something lighter like an ore cart or a means of removing logs.
 ***
