@@ -5,7 +5,7 @@
 The petroglyphs are the main attraction at Indian Writings and the tour they give brings scouts to some of the most impressive panels, but many more lie in the area. There are a few more panels that can be found if one continues along the canyon wall from where the tour ends. Smaller panels can be found at Aguila camp near the spring and behind the Ponil Commissary (where the climbing route used to be).
 ***
 #### BOX CANYON CAVE
-The best-preserved dwellings in the cliff side are in Box Canyon near Indian Writings. They can be reached by taking the trail to Ponil past the atlatl range until you reach the top of the cliff side. Follow the rim until it veers towards the west and follows the side canyon. When one reaches the sliderock at the head of this side canyon drop down into the canyon and stay to the right wall of the canyon. The dwelling is a rock wall primarily made out of loose stone (so don’t touch ANYTHING). The cave was excavated by the scouts in the 1950s, and its artifacts moved to the museum at Indian Writings.
+The best-preserved dwellings in the cliff side are in Box Canyon near Indian Writings. The dwelling is a rock wall primarily made out of loose stone (so don’t touch ANYTHING). The cave was excavated by the scouts in the 1950s, and its artifacts moved to the museum at Indian Writings.
 
 Box Canyon Cave on Approach
 
