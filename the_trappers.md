@@ -8,13 +8,6 @@ Tree with carvings near the PtoB. Probably more recent than the cabins as they a
 
 ![Carved Aspen][carved_aspen_image]
 
-
-Also in the vicinity of campsite 7 there are two patches of stones piled up several inches high, about two feet wide and around six feet long. It is highly probable that these are graves.
-
-The two are similar however one is significantly more scattered than the other. The scattered one is fairly close to the PtoB to the southeast.
-
-One of the rock piles. This is the less grave-like.
-
 ![Rock Pile][rock_pile_image]
 ***
 #### RAYADO
